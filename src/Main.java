@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-       //Задача 6
+        //Задача 6
        System.out.println("Задача 6" );
    var boxer1 = 78.2;
    var boxer2 = 82.7;
@@ -13,7 +13,6 @@ public class Main {
    System.out.println("Способ 1. Разница в весе составляет " + difference1 + " кг!");
    var difference2 = (boxer2 % boxer1);
    System.out.println("Способ 2. Разница в весе составляет " + difference2 + " кг!");
-
 
    //Задача 8
        System.out.println("Задача 8");
