@@ -19,7 +19,7 @@ public class Main {
    System.out.println("Всего работников в компании " + totalNumbEmp + " человек");
 
    var totalNumbEmp2 = totalNumbEmp + 94;
-   var totalWH2 = totalNumbEmp2 * empWH;
+   var totalWH2 = totalWH  / totalNumbEmp2;
     System.out.println("Если в компании работает " + totalNumbEmp2 + " человек, то всего " + totalWH2 + " часов работы может быть поделено между сотрудниками");
     }
 }
