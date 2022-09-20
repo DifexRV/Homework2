@@ -26,5 +26,6 @@ public class Main {
         System.out.println(cat);
         paper = paper -7639;
         System.out.println(paper);
+
     }
 }
